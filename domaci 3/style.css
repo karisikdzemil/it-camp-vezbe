@@ -1,0 +1,47 @@
+.but {
+    display: inline;
+    margin: 0px 350px;
+
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    top: 67px;
+}
+h4{
+ display: inline;
+}
+
+p{
+    display: inline;
+    position: relative;
+    left: 455px;
+
+}
+a{
+    position: relative;
+    left: 455px;
+}
+.second{
+    display: inline;
+    margin: 0px 350px;
+    position: relative;
+    right: 78px;
+}
+.image2 {
+    position: relative;
+    left: 700px;
+
+}
+hr{
+    width: 730px;
+    position: relative;
+    left: 71px;
+}
+.hr2{
+    position: relative;
+    left: 143px;
+}

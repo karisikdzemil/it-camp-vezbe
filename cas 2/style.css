@@ -1,0 +1,44 @@
+.glavni {
+    color: blueviolet;
+    background-color: gray;
+    font-size: 35px;
+
+}
+p{
+    width: 500px;
+    height: 200px;
+    color: black;
+    background-color: wheat;
+    text-align: center;
+    border: 3px solid black;
+
+
+
+
+
+}
+.podnaslov{
+    width: 300;
+    height: 80;
+    color: black;
+    background-color: white;
+    background-size: 50px;
+    text-align: center;
+    border: 5px solid wheat;
+    border-radius: 10px;
+
+  
+}
+
+
+h1 {
+width: 500px;
+height: 100px;
+color: black;
+background-color: white;
+border: 2px solid wheat;
+border-radius: 15px;
+text-align: center;
+
+
+}

@@ -1,0 +1,72 @@
+.prvi{
+    width: 300px;
+    height: 430px;
+    color: black;
+    background-color: whitesmoke;
+    border: 2px solid blue;
+    display: inline-block;
+    border-radius: 10px;
+}
+.drugi{
+    padding-left: 15px;
+    display: inline-block;
+}
+h4{
+    font-size: 23px;
+    display: inline-block;
+    position: relative;
+    bottom: 15px;
+
+}
+h1{
+    font-size: 43px;
+    padding-bottom: 50px;
+    display: inline-block;
+    position: relative;
+    bottom: 70px;
+    
+}
+.treci{
+    border-top: 1px solid gray;
+
+    position: relative;
+    bottom: 120px;
+}
+.button{
+    width: 250px;
+    height: 30px;
+    background-color: blue;
+    position: relative;
+    bottom: 70px;
+    left: 20px;
+    border-radius: 10px;
+    color: white;
+}
+h3{
+    position: relative;
+    left: 10px;
+}
+p{
+    padding-top: 10px;
+    position: relative;
+    left: 33px;
+}
+h5{
+    color: white;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    font-size: 17px;
+}
+.popularno{
+    width: 89px;
+    height: 30px;
+    float: right;
+    background-color: blue;
+    border-radius: 7px;
+    text-align: center;
+}
+.dole{
+    position: relative;
+    bottom: 77px;
+}

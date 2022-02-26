@@ -1,0 +1,35 @@
+#tomato {
+    width: 400px;
+    height: 170px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 7px; 
+    position: relative;
+    left: 350px;
+    top: 200px;
+
+}
+h4 {
+    font: revert;
+    position: relative;
+    left: 15px;
+}
+p { 
+    position: relative;
+    left: 15px;
+    font-style: normal;
+    color: gray;
+    
+}
+body {
+    background-color: wheat;
+
+}
+img {
+    position: relative;
+    top: 25px;
+    left: 10px;
+    width: 35px;
+    image-rendering: pixelated;
+    image
+}
