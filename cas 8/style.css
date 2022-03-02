@@ -1,0 +1,43 @@
+.main{
+    width: 100%;
+    height: 2000px;
+    margin-top: 200px;
+
+}
+.stiki{
+    position: sticky;
+    top: 0;
+    background-color: rgb(76, 76, 173);
+
+}
+h1,p{
+    display: inline;
+
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin-left: 20px;
+}
+p{
+    color: gray;
+    position: absolute;
+    left: 70%;
+    top: -13px;
+    
+}
+.fixed{
+    color: white;
+    background-color: gray;
+    width: 77px;
+    height: 30px;
+    font-size: 10px;
+    position: fixed;
+    right: 0;
+    bottom: 5px;
+    text-align: center;
+    border-radius: 35%;
+
+
+}
