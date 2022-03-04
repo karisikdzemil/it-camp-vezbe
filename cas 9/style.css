@@ -1,0 +1,8 @@
+.ol{
+    background-color: yellow;
+    display: inline-block;
+}
+.ul{
+    background-color: aqua;
+    display: inline-block;
+}

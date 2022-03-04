@@ -1,0 +1,84 @@
+.main{
+    width: 100%;
+    height: 1500px;
+
+
+}
+.glavni{
+    width: 360px;
+    height: 427px;
+    position: absolute;
+    border-radius: 9px;
+    border: 1px solid gray;
+    position: relative;
+    display: inline-block;
+
+}
+.prvi{ position: absolute;
+    bottom: 397px;
+    
+}
+img{
+    width: 360px;
+    height: 40%;
+    z-index: 1;
+    color: gray;
+     border-radius: 9px;
+}
+.drugi{
+    display: inline-block;
+    position: absolute;
+    bottom: 345px;
+    padding-bottom: 7px;
+    color: rgb(112, 112, 112);
+    padding-left: 27px;
+}
+.treci{
+    
+    display: inline-block;
+    position: absolute;
+    bottom: 325px;
+    padding-left: 27px;
+}
+.cetvrti{
+    color: rgb(112, 112, 112);
+    display: inline;
+    position: absolute;
+    bottom: 247px;
+    padding-left: 27px;
+}
+.peti{
+    color: blue;
+    display: inline-block;
+    position: absolute;
+    bottom: 195px;
+    padding-left: 27px;
+}
+.sesti{
+    display: inline-block;
+    position: absolute;
+    left: 267px;
+    bottom: 195px;
+    font-size: 13px;
+    color: rgb(112, 112, 112);;
+    border-right: 2px solid rgb(112, 112, 112);;
+    padding-right: 5px;
+
+}
+.sedmi{
+    display: inline-block;
+    position: absolute;
+    left: 320px;
+    bottom: 195px;
+    color: rgb(112, 112, 112);
+    font-size: 13px;
+}
+h1{
+    font-size: 20px;
+}
+h3{
+    font-size: 14px;
+}
+.i{
+    padding-right: 3px;
+}
