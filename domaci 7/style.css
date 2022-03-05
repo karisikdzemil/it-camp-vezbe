@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.pt{
+    width: 50%;
+    height: 25vh;
+    position: relative;
+    left: 270px;
+    top: 35px;
+    text-align: center;
+    color: gray;
+   
+
+}
+.prvi{
+    width: 17%;
+    height: 40vh;
+    position: relative;
+    top: 70px;
+    margin-left: 30px;
+    display: inline-block;
+    margin: 0 40px;
+}
+h1{
+    font-size: 30px;
+    color: black;
+}
+h2{
+    font-size: 18px;
+    color: black;
+}
+h3{
+    padding: 10px;
+    font-size: 22px;
+}
+h4{
+    font-size: 17px;
+    margin-left: 5px;
+    display: inline-block;
+    color: gray;
+
+}
+.krop{
+    list-style: none ;
+    color: blue;
+}
+.button{
+    width: 110px;
+    height: 50px;
+    background-color: rgb(80, 80, 189);
+    color: white;
+    display: inline-block;
+    border-radius: 10px;
+    text-align: center;
+    position: absolute;
+    top: 520px;
+    right: 647px;
+
+}
+.button :hover{
+    background-color: rgb(7, 7, 107);
+    font-size: 27px;
+    border-radius: 10px;
+}
