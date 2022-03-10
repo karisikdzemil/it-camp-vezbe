@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+.table-head, .table-body{
+    width: 90%;
+    height: 7vh;
+    margin: 0 120px;
+    padding: 0 20px;
+    border: 1px solid whitesmoke;
+
+}
+.table-head{
+    background-color: rgb(48, 45, 45);
+    font-size: 16px;
+}
+.table-body{
+    color: gray;
+}
+th, td{
+    padding: 15px 30px;
+}
+#date{
+    margin-right: 140px;
+}
+#order{
+    margin-right: 70px;
+}
+#name{
+    margin-right: 170px;
+}
+#price{
+    margin-right: 50px;
+}
+#total{
+    margin-right:50px ;
+}
+.number{
+    margin-right: 55px;
+    position: relative;
+    right   : 5px;
+}
+.number2{
+    margin-right: 80px;
+}
+.tell{
+    margin-right: 85px;
+}
+.price{
+    margin-right: 90px;
+}
+.price2{
+    margin-right: 50px;
+}
+table :nth-child(even){
+    background-color: whitesmoke;
+}
+t :nth-child(all){
+    background-color: rgb(48, 45, 45) ;
+
+}
