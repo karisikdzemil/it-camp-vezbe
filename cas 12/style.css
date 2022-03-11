@@ -1,0 +1,40 @@
+.main{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    animation: anim1 7s ease;
+    position: relative;
+
+}
+@keyframes anim1 {
+    0%{
+        background-color: aquamarine;
+        top: 0;
+        left: 500px;
+    }
+    25%{
+        background-color: brown;
+        top: 0;
+        left: 500px;
+    }
+    50%{
+        background-color: green;
+        top: 500px;
+        left: 500px;
+
+       
+    }
+    75%{
+        background-color: beige;
+        top: 500px;
+        left: 0;
+        
+
+    }
+    100%{
+        background-color: aqua;
+        top: 0;
+        left: 0;
+    }
+ 
+} 

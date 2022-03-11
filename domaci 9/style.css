@@ -5,7 +5,7 @@
 }
 .table-head, .table-body{
     width: 90%;
-    height: 7vh;
+    height: 6vh;
     margin: 0 120px;
     padding: 0 20px;
     border: 1px solid whitesmoke;
@@ -56,7 +56,7 @@ th, td{
 table :nth-child(even){
     background-color: whitesmoke;
 }
-t :nth-child(all){
+th :nth-child(all){
     background-color: rgb(48, 45, 45) ;
 
 }
