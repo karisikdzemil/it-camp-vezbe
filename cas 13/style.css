@@ -1,0 +1,16 @@
+.stop{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 50%;
+    display: inline-block;
+    animation-duration: 10s;
+    animation: anim1 5s ease-in;
+}
+@keyframes anim1{
+    0%{transform: scale(1);}
+    25%{transform: scale(1.3);}
+    50%{transform: scale(1.5);}
+    75%{transform: scale(1.3);}
+    100%{transform: scale(1);}
+}
