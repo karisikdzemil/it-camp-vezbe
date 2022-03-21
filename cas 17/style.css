@@ -1,0 +1,28 @@
+.first{
+    width: 35%;
+    height: 6   0vh;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    justify-content: space-evenly;
+
+}
+input{
+    width: 80%;
+    height: 5vh;
+}
+h1{
+    padding-bottom: 50px;
+}
+.button{
+    width: 80%;
+    height: 6vh;
+    background-color: blue;
+    border-radius: 2px;
+    margin-top: 20px;
+}
+p{
+    font-size: 13px;
+    color: gray;
+}
