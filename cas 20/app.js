@@ -521,3 +521,25 @@
 //     console.log(grad, duzinaNaziva);
     
 // }
+
+// unos = Number(prompt("unesi broj bodova"));
+
+// if(unos <= 20){
+//   console.log("dobio si jedan")
+// }if(unos >= 21 && unos <= 41){
+//   console.log("dobio si dva")
+// }if(unos >= 40 && unos <= 61){
+//   console.log("dobio si tri")
+// }if (unos >= 60 && unos <= 80){
+//   console.log("dobio si cetiri")
+// }if(unos >= 81 && unos <= 100){
+//   console.log("dobio si pet")
+// }
+
+unos = Number(prompt("unesite broj redova"));
+sum = "";
+sum2 = "  "
+for(i = 0; i < unos; i++){
+  sum += "  *";
+  console.log(sum)
+}
