@@ -475,9 +475,9 @@
 // arr = [0, 2, 5, 4, 6, 8];
 // min = "-" ;
 // for(i = 0; i < arr.length; i++){
-  // console.log(arr[i]);
+//   console.log(arr[i]);
 //   if(arr[i] % 2 === 0){
-//     arr.push(min);
+//     arr += min;
 //   }
 // } 
 // console.log(arr)  
@@ -536,10 +536,96 @@
 //   console.log("dobio si pet")
 // }
 
-unos = Number(prompt("unesite broj redova"));
-sum = "";
-sum2 = "  "
-for(i = 0; i < unos; i++){
-  sum += "  *";
-  console.log(sum)
+// unos = Number(prompt("unesite broj redova"));
+// sum = "";
+// for(i = 0; i < unos; i++){
+//   sum += "*";
+//   console.log(sum)
+// }
+
+// broj = [0, 2, 5, 4, 6, 8];
+// parni = [];
+// neparni = [];
+// crt = "-"
+// for (i = 0; i < broj.length; i++){
+//   console.log(broj)
+//   if(broj.length % 2 === 0){
+//     broj[i] += crt
+    
+//   }
+// }
+
+// function sum(a, b) {
+//   console.log("Zbir je: ", a + b);
+// }
+
+// sum(3, 7);
+
+// sum(10, 2);
+
+// sum(Number(prompt("Unesite broj")), 1);
+
+// function findLargest(arr) {
+//   max = arr[0];
+//   for (el of arr) {
+//     if (el > max) {
+//       max = el;
+//     }
+//   }
+
+//   console.log("Najveci broj je: ", max);
+// }
+
+// findLargest([1, 2, 7, 3]);
+
+// console.log("1000lines of code");
+
+// findLargest([1, 2, 3, 4, 5, 6, 7, 8]);
+
+// console.log("asd".includes("b"));
+
+// function checkIsAnagram(a, b) {
+//   isAnagram = true;
+//   if (a.length !== b.length) {
+//     isAnagram = false;
+//   }
+//   for (char of a) {
+//     if (!b.includes(char)) {
+//       isAnagram = false;
+//     }
+//   }
+//   if (isAnagram) {
+//     console.log("Anagram");
+//   } else {
+//     console.log("Not anagram");
+//   }
+// }
+
+// checkIsAnagram("spare", "peers");
+
+// function calculateAverage(a, b, c) {
+//   console.log("Average is : ", (a + b + c) / 3);
+// }
+
+// calculateAverage(1, 2, 3);
+
+// function matrix(n) {
+//   for (i = 0; i < n; i++) {
+//     str = "";
+//     for (j = 0; j < n; j++) {
+//       str += i;
+//     }
+//     console.log(str);
+//   }
+// }
+
+// matrix(10);
+
+// DOMACIIIIII
+
+function arr (a, b, c){
+  e = 0;
+  e = a +  b + c
+  console.log(e)
 }
+arr(10, 15, 20);
