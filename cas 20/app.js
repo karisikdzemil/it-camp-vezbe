@@ -623,9 +623,67 @@
 
 // DOMACIIIIII
 
-function arr (a, b, c){
-  e = 0;
-  e = a +  b + c
-  console.log(e)
+// function arr (a, b, c){
+//   e = 0;
+//   e = a -  b + c
+//   console.log(e)
+// }
+// arr(10, 15, 20);
+
+//  VEZBA
+
+// unos = Number(prompt("unosite negativne brojeve"));
+// for (i = 0; i < unos; i++){
+//   if (unos % 2 != 0){
+//     unos = Number(prompt("unosite negativne brojeve"));
+//     console.log(unos)
+//   }
+// }
+
+// a = "END"
+// unos = (prompt("unesite vase ime"));
+// while (a != unos){
+//   console.log(unos)
+//   unos = (prompt("unesite vase ime"));
+// }
+// while(true){
+//   unos = (prompt("unesite vase ime"));
+//   if (unos === "END"){
+//     // console.log("uspeo si")
+//     break;
+//   }
+//   console.log(unos)
+// }
+
+// arr = [22, 12, 32, 54, 65, 20, 77];
+
+// for (i = 0; i < arr.length; i++){
+//   console.log(arr[i])
+//   if (arr[i] === 65){
+//     console.log("u nizu je pronadjen broj 65")
+//   } if (arr[i] === 77){
+//     console.log("u nizu je pronadjen broj 77")
+//   }
+// }
+
+// arr = [0, 2, 5, 6, 4, 7, 8];
+// num = 0;
+// pet = 0
+// for (i = 0; i < arr.length; i++){
+//   num = arr[i]
+//   console.log(num)
+//   if(num % 2 === 0){
+//     num
+//   }
+// }
+
+arr = [1, 2, 5, 6, 4, 7, 8];
+min = "-"
+console.log(arr);
+for (i = 0; i < arr.length; i++){
+  if(arr[i] % 2 === 0){
+    arr[i] += min
+    console.log(arr)
+  }
 }
-arr(10, 15, 20);
+
