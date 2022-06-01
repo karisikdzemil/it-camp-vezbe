@@ -677,13 +677,36 @@
 //   }
 // }
 
-arr = [1, 2, 5, 6, 4, 7, 8];
-min = "-"
-console.log(arr);
-for (i = 0; i < arr.length; i++){
-  if(arr[i] % 2 === 0){
-    arr[i] += min
-    console.log(arr)
-  }
-}
+// arr = [1, 2, 5, 6, 4, 7, 8];
+// min = "-"
+// console.log(arr);
+// for (i = 0; i < arr.length; i++){
+//   if(arr[i] % 2 === 0){
+//     arr[i] += min
+//     console.log(arr)
+//   }
+// }
 
+// function ab (dy, sy){
+//  x = dy - sy - sy
+//  console.log(x)
+// }
+// ab(60, 25);
+
+// function sum (a){
+//   for(i = 0; i < a; i++){
+//     if (i % 2 !== 0){
+//       console.log(i)
+//     } 
+//   }
+// }
+// sum(15);
+
+// function sum (a, b){
+// a.toLoweCase
+// b.toLoweCase
+// if( a === b){
+//   console.log(1)
+// }
+// }
+// sum("a", "b")
