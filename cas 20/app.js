@@ -710,3 +710,14 @@
 // }
 // }
 // sum("a", "b")
+
+function nem (){
+sum = "";
+unos = Number(prompt("unesi broj redova"));
+for(i = 0; i < unos; i++){
+    sum += "*"
+    console.log(sum)
+}
+}   
+
+nem();
