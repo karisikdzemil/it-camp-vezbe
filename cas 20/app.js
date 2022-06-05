@@ -815,3 +815,29 @@
 // }
 // abs(arr)
 
+// pal = "anavolimilovana"
+// function palindrome (string){
+//     len = pal.length
+// for (i = 0; i < len; i++){
+//     // console.log(i)
+    
+// }
+// if(string[i] != string[len - 1 - i]){
+//     console.log("ovo je palindrom")
+// }else{console.log(nije)}
+// }
+// palindrome();
+
+// unos = Number(prompt("unesite broj redova"));
+
+// sum = ""
+// tab = "  "
+
+// for (i = 0; i < unos; i++){
+// sum += "*"
+// sum += tab
+// for (j = 0;j < unos; j++ ){
+//     sum -= tab
+// }
+// console.log(sum)
+// }
