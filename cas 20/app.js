@@ -711,13 +711,107 @@
 // }
 // sum("a", "b")
 
-function nem (){
-sum = "";
-unos = Number(prompt("unesi broj redova"));
-for(i = 0; i < unos; i++){
-    sum += "*"
-    console.log(sum)
-}
-}   
+// function nem (){
+// sum = "";
+// unos = Number(prompt("unesi broj redova"));
+// for(i = 0; i < unos; i++){
+//     sum += "*"
+//     console.log(sum)
+// }
+// }   
 
-nem();
+// nem();
+
+//  trodimenzi
+
+// b = 20;
+// for (i = 0; i < b; i++){
+//     i++
+//     console.log(i)
+// }
+// b = 20;
+// for (i = 0; i <= b; i++){
+//     // console.log(i)
+//     if (i % 5 === 0 ){
+//         console.log(i)
+//     }
+// }
+
+// sum = ""
+// unos = Number(prompt("unesite broj redova"))
+// for (i = "*"; i < unos; i++){
+//     sum += i
+//     console.log()
+// }
+
+// function num (start, limit){
+//     for (i = start; i <= limit; i++){
+//     if (i % start === 0){
+//         console.log(i)
+//     }
+        
+//     }
+
+// }
+// num(4, 56)
+
+// niz = [
+//     [1, 2, 3],
+//     [4, 5, 6],
+//     [7, 8, 9],
+//     ];
+
+//     // niz = [
+//     //     [2, 3, 6],
+//     //     [1, 5, 9],
+//     //     [4, 7, 8],
+//     // ]
+
+//     for (i = 0; i < niz.length; i++){
+//         for (j = 0; j < 3; j++){
+//             // console.log(niz[i][j])
+//             console.log(niz[i][j])
+//         }
+//     }
+
+// niz = [
+//         [1, 2, 3],
+//         [4, 5, 6],
+//         [7, 8, 9],
+//         ];
+//         n = niz.length;
+//         for (i = 0; i < n / 2; i++){
+//             for(j = i; j < n - i - 1; j++){
+//                 tmp = niz[i][j];
+//                 console.log(tmp[])
+//                 console.log(tmp)
+               
+//             }
+//         }
+// function rotateCounterClockwise(a){
+//     var n=a.length;
+//     for (var i=0; i<n/2; i++) {
+//         for (var j=i; j<n-i-1; j++) {
+//             var tmp=a[i][j];
+//             a[i][j]=a[j][n-i-1];
+//             a[j][n-i-1]=a[n-i-1][n-j-1];
+//             a[n-i-1][n-j-1]=a[n-j-1][i];
+//             a[n-j-1][i]=tmp;
+//         }
+//     }
+//     return a;
+// }
+
+// arr = [2, 4, 45, 23, 34, 22, 10, 18, 50, 28, 11, 80, 85,
+//      34, 63, 265, 235, 240, 876, 124, 289, 328];
+// function abs (arr){
+//     for (i = 0; i < arr.length; i++){
+//         // console.log(arr[i])
+       
+//         if (arr[i] % 2 === 0){
+//             console.log(arr[i])
+//         }
+//     }
+// }
+// abs(arr)
+
