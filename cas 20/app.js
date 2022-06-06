@@ -753,7 +753,7 @@
 //     }
 
 // }
-// num(4, 56)
+// num(4, 10)
 
 // niz = [
 //     [1, 2, 3],
@@ -841,3 +841,65 @@
 // }
 // console.log(sum)
 // }
+
+// arr = [3, 9, 1, 27, 54, 23];
+
+
+// mojaF = (e, i, a) => {
+//     console.log(e)
+//     a = 0;
+//     a + e
+//     console.log(a)
+// }
+// arr.forEach(mojaF)
+
+// arr = [0, 1, false, 2, undefined, '', 3, null];
+
+
+// for (i = 0; i < arr.length; i++){
+//     console.log(arr[i])
+
+// }
+
+// mojaF = (e) => {
+//     console.log(e)
+//     if (e != Number){
+        
+//     }
+// }
+// arr.forEach(mojaF)
+
+// arr = [1, 2, 3, 1, 2];
+// arr2 = [];
+// mojaF = (e) => {
+//     console.log(e)
+//     if (e === 2 && 1){
+//         arr.shift(e)
+//     }
+// }
+// arr.forEach(mojaF)
+
+// function simpleMultiplication (number){
+//     if (number % 2 === 0){
+//         number * 8
+//         console.log(number)
+//     }else { number * 9 
+//     console.log(number)}
+// }
+// simpleMultiplication (20)
+
+// function fake(x){
+//     str = ""
+//     for ( el of x){
+//         if ()
+//     }
+// }
+
+// str = "hello!";
+// str1 = "hello"
+//  for ( i = 0; i < str.length; i++){
+//      console.log(str[i])
+//      if (str[i] !== ){
+//          str[i].pop()
+//      }
+//  }
