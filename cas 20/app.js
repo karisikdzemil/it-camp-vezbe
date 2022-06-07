@@ -903,3 +903,24 @@
 //          str[i].pop()
 //      }
 //  }
+
+// num =  2;
+// for (i = 0; i < navigator; i++){
+//     if (num < n ){
+//         num ** 2
+//         console.log(num)
+//     }
+// }
+
+function hello(){
+    a = "hello world"
+    console.log(a)
+}
+hello()
+
+function hello(){
+    a = "hello world"
+    console.log(a)
+}
+hello()   
+
