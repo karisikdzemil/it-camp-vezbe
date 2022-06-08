@@ -923,18 +923,88 @@
 //     console.log(a)
 // }
 // hello()   
-arr = [2, 4, 6, 8, 10, 18, 3, 5, 7];
-arr_2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-nel = 0;
-i = 0;
-arr.forEach(vis)
-arr_2.forEach(vis)
-function vis (arr){
-    console.log(arr)
-    if(arr % arr_2[i] === 0){
-        arr_2[i].push(nel)
-    }
-}
-vis();
-console.log("--------")
-console.log(arr_2[4])
+// arr = [2, 4, 6, 8, 10, 18, 3, 5, 7];
+// arr_2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// nel = 0;
+// i = 0;
+// arr.forEach(vis)
+// arr_2.forEach(vis)
+// function vis (arr){
+//     console.log(arr)
+//     if(arr % arr_2[i] === 0){
+//         arr_2[i].push(nel)
+//     }
+// }
+// vis();
+// console.log("--------")
+// console.log(arr_2[
+
+// data = [1, true, "", "daris", false, 23, null, undefined, 123, 0, 77];
+
+// arr = data.filter((el) => {
+//     return el
+// })
+// console.log(arr)
+
+// data = [1, true, "", "daris", false, 23, null, undefined, 123, 0, 77];
+
+// arr = data.filter((el) => {
+//     return !el
+// })
+// console.log(arr)
+
+// data = [3, 6, 8, 2, 9];
+
+// arr = data.filter((el) => {
+//     return el > 5
+// })
+// console.log(arr)
+
+// data = ["dog", "wolf", "by", "family", "eaten", "camping"];
+
+// arr = data.filter((el) => {
+//     return el.length >= 5
+// })
+// console.log(arr)
+
+// data = ["dog", "wolf", "by", "family", "eaten", "camping"];
+
+// arr = data.filter((el) => {
+//     return el.length <= 5
+// })
+// console.log(arr)
+
+// data = [2, 5, 100]
+// arr = data.map((el) => {
+//     return el * 2   
+// })
+// console.log(arr)
+
+// data = [2, 5, 100]
+// arr = data.map((el) => {
+//     return String(el)   
+// })
+// console.log(arr)
+
+// data = ["dog", "wolf", "by", "family", "eaten", "camping"];
+
+// arr = data.filter((el) => {
+//     return 
+// })
+// console.log(arr)
+
+// data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+// arr = data.every((el) => {
+//     return el % 2
+// })
+// console.log(arr)
+
+// data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+// arr = data.every((el) => {
+//     return el > 0
+// })
+// console.log(arr)
+
+// array iteration domaci ////////////////////////
