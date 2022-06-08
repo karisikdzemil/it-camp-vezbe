@@ -912,15 +912,29 @@
 //     }
 // }
 
-function hello(){
-    a = "hello world"
-    console.log(a)
-}
-hello()
+// function hello(){
+//     a = "hello world"
+//     console.log(a)
+// }
+// hello()
 
-function hello(){
-    a = "hello world"
-    console.log(a)
+// function hello(){
+//     a = "hello world"
+//     console.log(a)
+// }
+// hello()   
+arr = [2, 4, 6, 8, 10, 18, 3, 5, 7];
+arr_2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+nel = 0;
+i = 0;
+arr.forEach(vis)
+arr_2.forEach(vis)
+function vis (arr){
+    console.log(arr)
+    if(arr % arr_2[i] === 0){
+        arr_2[i].push(nel)
+    }
 }
-hello()   
-
+vis();
+console.log("--------")
+console.log(arr_2[4])
