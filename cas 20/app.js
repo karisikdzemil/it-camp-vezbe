@@ -1008,3 +1008,47 @@
 // console.log(arr)
 
 // array iteration domaci ////////////////////////
+
+// arr = [2, 3, 5, 6, 1, 7, 8 , 9, 98];
+// a = 2;
+// b = 4;
+
+// function mojaF (i, v){
+//     if (arr.length % a === 0){
+//         console.log("broj je deljiv sa dva ");
+//     }else if(arr.length % b === 0){
+//         console.log("broj je deljiv sa tri")
+//     }
+// }
+// arr.forEach(mojaF)
+
+// arr = [1, 2, 3, 4];
+
+// mojaF = (e, i, a) => {
+//   console.log(e, "je na indexu:", i);
+//   console.log(a);
+// };
+
+// for (i = 0; i < arr.length; i++) {
+//   mojaF(arr[i], i, arr);
+// }
+
+// arr.forEach(mojaF);
+
+// arr = [3, 9, 1, 27, 54, 23];
+
+// arr.forEach((el) => {
+//   console.log(el);
+// });
+
+// data = [1, 2, 3, 1, 2];
+
+// arr = [];
+
+// data.forEach((el) => {
+//   if (el !== 1 && el !== 2) {
+//     arr.push(el);
+//   }
+// });
+
+// console.log(arr);
