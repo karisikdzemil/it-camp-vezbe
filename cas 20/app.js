@@ -1052,3 +1052,32 @@
 // });
 
 // console.log(arr);
+
+// str = "";
+// sum = "*"
+// unos = Number(prompt("unesite br. redova"))
+//  for (i = 0; i < unos; i++){
+//     str += sum;
+
+//  }
+
+// library = [
+//     {
+//         author: 'bil gates',
+//         title: 'the road a head',
+//         readingStatus:true
+//     },
+//     {
+//         author: 'steve jobs',
+//         title: 'walter isaacson',
+//         readingStatus:true
+//     },
+//     {
+//         author: 'bil gates',
+//         title: 'jlknklknlkn',
+//         readingStatus:false
+//     }
+// ]
+// library.forEach(el => {
+//     console.log(el.author, ":", el.readingStatus)
+// });
