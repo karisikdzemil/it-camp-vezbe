@@ -1081,3 +1081,65 @@
 // library.forEach(el => {
 //     console.log(el.author, ":", el.readingStatus)
 // });
+// arr = [2, 4, 6, 7, 8, 9, 19, 20, 10, 4];
+
+// function myF (arr){
+
+// }
+
+// library = [
+//         {
+//             author: 'bil gates',
+//             title: 'the road a head',
+//             readingStatus:true
+//         },
+//         {
+//             author: 'steve jobs',
+//             title: 'walter isaacson',
+//             readingStatus:true
+//         },
+//         {
+//             author: 'bil gates',
+//             title: 'jlknklknlkn',
+//             readingStatus:false
+//         }
+//     ]
+//     library.forEach(element => {
+//         console.log(library.author, ":", library.readingStatus)
+//     });
+
+// arr = [2, 4, 6, 7, 8, 9, 19, 20, 10, 4];
+// a = 0
+// arr.forEach(bet)
+
+
+// function bet (el, i, njk){
+//     arr[i] = a
+//     console.log(a)
+// }
+// ukupno = 0;
+// sum1 = 0
+// for (i = 0; i < arr.length; i++){
+//     // console.log(arr[i])
+//     if (i++){
+//         sum1 += arr[i] 
+//     }
+//     console.log(sum1)
+// }   
+
+// sum1 = arr[1] + arr[0] + arr[2] + arr[3]
+// console.log(sum1)
+
+// primitivni po vrednosti / referentni po referenci////
+//BITNOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+// console.log("duekdwnfoewfnkfonkfewofwekf")
+
+// function num (n, s){
+//     str = 6;
+//     str_2 = "*";
+//     for (el of str){
+//         console.log(el)
+//     }
+// }
+// num()
