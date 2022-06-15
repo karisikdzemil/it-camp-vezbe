@@ -1235,10 +1235,18 @@
 // }
 // reverse();
 
-a = [1, 2, 3];
-zbir = 0
-i = 0
-while ( i < a.length){
-    zbir += + a[i]
-}
-console.log(zbir)
+// a = [1, 2, 3];
+// zbir = 0
+// i = 0
+// while ( i < a.length){
+//     zbir += + a[i]
+// }
+// console.log(zbir)
+file = ("https://jsonplaceholder.typicode.com/users")
+
+ fetch (file).then((res) => {
+    console.log(res)
+ })
+ .catch ((err) => {
+    console.log(err)
+})
