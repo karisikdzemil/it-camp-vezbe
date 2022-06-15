@@ -1143,3 +1143,102 @@
 //     }
 // }
 // num()
+
+// a = [2, 4, 5, 6 ,7 ,8 ,9];
+// b = a;
+// a.push(43)
+// console.log(b)
+
+// car = {
+//   type: "Fiat",
+//   model: "500",
+//   color: "white",
+//   price: 10000,
+//   equipment: ["ABS", "Air Conditioner", "Parking Sensor"],
+//   year: 2003,
+//   hp: 120,
+//   drive: () => {
+//     console.log("You started driving");
+//   },
+//   startOn: () => {
+//     console.log("You started engine");
+//   },
+// };
+
+// car2 = {
+//   type: "Fiat",
+//   model: "500",
+//   color: "white",
+//   price: 10000,
+//   equipment: ["ABS", "Air Conditioner", "Parking Sensor"],
+//   year: 2003,
+//   hp: 120,
+//   drive: () => {
+//     console.log("You started driving");
+//   },
+//   startOn: () => {
+//     console.log("You started engine");
+//   },
+// };
+
+// console.log(car == car2);
+
+// a = [1, 2, 3];
+
+// b = a;
+
+// a.push(4);
+
+// console.log(a);
+// console.log(b);
+
+// a = [1, 2, 3];
+
+// b = [1, 2, 3];
+
+// console.log(a == b);
+
+// console.log("DARiasss");
+
+// function digitize(n) {
+//     //123
+//     //[3,2,1]
+  
+//     arr = [];
+  
+//     str = n.toString();
+//     for (el of str) {
+//       arr.unshift(parseInt(el));
+//     }
+//     return arr;
+// }
+
+
+// function reverse (b){
+//     arr = [];
+//     str = b.toString
+//     for ( el of str){
+//         arr.unshift(parseInt(el))
+//     }
+//     console.log(arr)
+// }
+// reverse(112) 
+
+// function reverse (bet){
+//     str = 123;
+//     str1 = str.toString;
+//     arr = [];
+//     for ( el of str){
+//         arr.unshift(el)
+//     }
+//     console.log(arr)
+// }
+// reverse();
+
+a = [1, 2, 3];
+zbir = 0
+i = 0
+while ( i < a.length){
+    zbir += + a[i]
+}
+console.log(zbir)
