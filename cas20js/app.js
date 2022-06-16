@@ -1242,11 +1242,16 @@
 //     zbir += + a[i]
 // }
 // console.log(zbir)
-file = ("https://jsonplaceholder.typicode.com/users")
+// file = ("https://jsonplaceholder.typicode.com/users")
 
- fetch (file).then((res) => {
-    console.log(res)
- })
- .catch ((err) => {
-    console.log(err)
-})
+//  fetch (file).then((res) => {
+//     console.log(res)
+//  })
+//  .catch ((err) => {
+//     console.log(err)
+// })
+
+// let str = "dobro dosli na cw";
+// for (i = 0; i < str.length + 1; i++){
+//    console.log(i)
+// }
