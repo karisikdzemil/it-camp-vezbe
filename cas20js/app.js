@@ -1255,3 +1255,21 @@
 // for (i = 0; i < str.length + 1; i++){
 //    console.log(i)
 // }
+
+myPromise = new Promise ((resolve, reject) => {
+    num = Math.random() * 10;
+
+    if (num > 5){
+        resolve(num);
+    }
+    reject(`broj je manji od 5 (${num})`);
+});
+
+myPromise
+.then((res) => {
+    console.log("promise je resolved", res);
+})
+.catch((err) => {
+    console.log(err);
+});
+// JSON obaveznoooo
