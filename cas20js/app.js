@@ -1256,20 +1256,105 @@
 //    console.log(i)
 // }
 
-myPromise = new Promise ((resolve, reject) => {
-    num = Math.random() * 10;
+// myPromise = new Promise ((resolve, reject) => {
+//     num = Math.random() * 10;
 
-    if (num > 5){
-        resolve(num);
-    }
-    reject(`broj je manji od 5 (${num})`);
-});
+//     if (num > 5){
+//         resolve(num);
+//     }
+//     reject(`broj je manji od 5 (${num})`);
+// });
 
-myPromise
-.then((res) => {
-    console.log("promise je resolved", res);
-})
-.catch((err) => {
-    console.log(err);
-});
+// myPromise
+// .then((res) => {
+//     console.log("promise je resolved", res);
+// })
+// .catch((err) => {
+//     console.log(err);
+// });
 // JSON obaveznoooo
+
+// console.log("hello");
+
+// function nbYear(p0, percent, aug, p) {
+//   console.log("djemsi")
+//   p0 = 1000;
+//   aug = 50;
+//   percent = 0.02
+//   p = 0;
+//   p = p0 + p0 * percent + aug
+  
+//   console.log(p)
+// }
+// nbYear()
+
+// function arrayDiff(a, b) {
+//   a = [1, 2, 3, 3, 3];
+//   b = [2, 5, 3];
+//   arr = []
+//   for(el of a && el of b){
+//     // console.log(el)
+ 
+//   }
+//   for (el of b){
+//     // console.log(el)
+// }
+
+// if (a.length !== b.length){
+//     arr.push(el)
+// } console.log(arr)
+// }
+// arrayDiff()
+
+
+// function sekiDiff(a,b){
+//     a=[1,4,6,8];
+//     b=[2,4,7];
+//     for (let i = 0; i < a.length; i++) {
+//         for (let j = 0; j < b.length; j++) {
+//             if (a[i]!==b[j]) {
+//                 console.log(a[i]);
+//             }
+            
+//         }
+        
+//     }
+// }
+
+// sekiDiff()
+
+// str = "ooxx"
+
+// for (el of str){
+//     console.log(str[el])
+// }
+
+// function oddOrEven(array) {
+//     arr = [2, 4, 6, 7, 8, 4, 12, 3, 7, 10, 1, 10, 11];
+//     sum = 0;
+//     for (el of arr){
+//         console.log(el)
+//         sum = sum + el
+//     }
+//     console.log(sum)
+//     if (sum % 2 === 0){
+//         console.log(true)
+//     }else{console.log(false)}
+
+//   }
+//   oddOrEven()
+
+// function findShort(s){
+// arr = ["djemsi", "cuk", "jeste", "ok"];
+// //   console.log(arr)
+//   for(el of arr){
+//     console.log(el.length)
+//     a = [arr[0]];
+//     if (a < el.length){
+//         a = arr[el]
+//         console.log(a)
+//     }
+//   }
+// }
+// findShort()
+
