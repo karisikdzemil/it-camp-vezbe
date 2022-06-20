@@ -1358,3 +1358,28 @@
 // }
 // findShort()
 
+// function minMax(arr){
+//     return [0,0]; 
+//     arr = [1, 2, 3, 4, 5];
+//     for (el of arr){
+//         console.log(el)
+//     }
+//   }
+//   minMax()
+ 
+// let a = prompt("unesite text");
+// const div = document.getElementById("js")
+// console.log(a)
+// div.innerText = a;
+
+click = document.getElementById("dzemil");
+
+function mojaF(){
+    console.log("color")
+   
+    if (on){
+         click.style.backgroundColor = "red"
+    }{ click.style.backgroundColor = "blue"}
+   
+    
+}
