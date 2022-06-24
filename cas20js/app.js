@@ -1372,14 +1372,15 @@
 // console.log(a)
 // div.innerText = a;
 
-click = document.getElementById("dzemil");
+// click = document.getElementById("dzemil");
 
-function mojaF(){
-    console.log("color")
+// function mojaF(){
+//     console.log("color")
    
-    if (on){
-         click.style.backgroundColor = "red"
-    }{ click.style.backgroundColor = "blue"}
+//     if (on){
+//          click.style.backgroundColor = "red"
+//     }{ click.style.backgroundColor = "blue"}
    
     
-}
+// }
+
