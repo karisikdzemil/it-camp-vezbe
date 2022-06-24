@@ -1384,3 +1384,12 @@
     
 // }
 
+// let f_b = 10;
+// let s_b = 5;
+// let casa = 0;
+// f_b += casa;
+// s_b = f_b;
+// casa = f_b;
+// console.log(f_b)
+// console.log(s_b)
+
