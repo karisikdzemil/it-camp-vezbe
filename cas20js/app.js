@@ -1393,3 +1393,29 @@
 // console.log(f_b)
 // console.log(s_b)
 
+// friend_1 = ["Ryan", "Kieran", "Mark"];
+// function friend(friends){
+
+// for (i = 0; i < friend_1.length; i++){
+//     console.log(friend_1[i].length)
+//     if(friend_1[i].length <= 4){
+//         return 
+//     }
+// }
+//   }
+//   friend()
+
+// function friend(friends){
+//     return friends.filter(n => n.length === 4)
+//   }
+
+// arr = [2, 2, 2, 2, 2, 3, 2, 2];
+
+// for (el of arr){
+//     if (el !== 2){
+//         console.log(el)
+//     }
+// }
+
+
+
