@@ -1417,5 +1417,59 @@
 //     }
 // }
 
+    // arr = ["a", "b", "e", "c", "u"];
 
+    // function num (){
+    //     for(el of arr){
+    //         console.log(el)
+    //         if (el === "a" && "e" ){
+    //             console.log("jeste")
+    //         }
+    //     }
+    // }
+    // num()
 
+    // function filter_list(l) {
+    //     arr = [1, 2, 4, "vm", 2, "kll"];
+        
+    //   }
+    
+  //   arr = [1, 2, 3, 4, 5, 6, 5];
+  //  let  result = arr.filter(fun);
+
+  //    function fun(){s
+  //     for (i = 2;i < broj; i++ ){
+  //      if (i % 2 === 0){
+  //       return false
+  //      }else{return true}
+  //     }
+  //    } 
+
+  // arr = ["2", "5", "10", "21", "4"];
+
+  // for (el = 0; el < arr; el++){
+  //   el = (parseInt(el))
+  //   console.log(typeof(el))
+  // }
+  // console.log(typeof(arr))
+
+  // unos  = Number(prompt("unesite koliko je sati"));
+  // j = 10
+  // p = 18
+
+  // if ( unos < j){
+  //   console.log("dobro jutro")
+  // }else if(unos < p){
+  //   console.log("dobar dan")
+  // }else{console.log("dobro vece")}
+
+  novcanice = 25;
+  vrednost = 10;
+  ukupno = 0;
+
+  for (i = 0; i < novcanice; i++){
+    console.log(i)
+    
+  }
+  ukupno = i * vrednost
+    console.log("ukupno imamo " + ukupno + " eura")
