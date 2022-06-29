@@ -1463,13 +1463,26 @@
   //   console.log("dobar dan")
   // }else{console.log("dobro vece")}
 
-  novcanice = 25;
-  vrednost = 10;
-  ukupno = 0;
+  // novcanice = 25;
+  // vrednost = 10;
+  // ukupno = 0;
 
-  for (i = 0; i < novcanice; i++){
-    console.log(i)
+  // for (i = 0; i < novcanice; i++){
+  //   console.log(i)
     
-  }
-  ukupno = i * vrednost
-    console.log("ukupno imamo " + ukupno + " eura")
+  // }
+  // ukupno = i * vrednost
+  //   console.log("ukupno imamo " + ukupno +"" " eura")
+
+//   a =  document.getElementById("first")
+
+// function func(){
+//   for(i = 0; i < 60; i++){
+//     a++
+//     console.log(a)
+//     document.getElementById("pr").innerHTML = a
+//   }
+
+// }
+
+
