@@ -1485,4 +1485,25 @@
 
 // }
 
+// let a = [2, 4, 5, 10, 29, 4, 3, 2];
+// let b = 0;
+// let u = 0
+// for(i = 0; i < a.length; i++){
+//   console.log(a[i])
+//   // a += b
+//   u = b += a[i]
+  
+// }
+// console.log(u)
+
+// let a = [1, 2, 3, 6, 4, 3, 2, 5, 3];
+
+// for(let i = 0; i < a.length; i++){
+//   // console.log(a[i]);
+//   if (a[i] === 3){
+//     a.shift(i)
+//   }
+//   console.log(a[i])
+// }
+
 
