@@ -1506,5 +1506,49 @@
 //   console.log(a[i])
 // }
 
+// fetch("https://jsonplaceholder.typicode.com/users")
+//   .then((res) => {
+//     return res.json();
+//   })
+//   .then((res) => {
+//     console.log(res);
+//   })
+//   .catch((err) => {
+//     console.log("DEsio se reject", err);
+//   });
 
 
+// function bet(){
+//   let a = 5;
+//   let b = 6;
+// rez = a + b 
+// }
+// bet(5, 10)
+// function gam(){
+//   console.log(`rezultat prve funk je bet ${bet}`)
+
+// }
+// gam()
+
+// function prob(name){
+//   alert(`hello ${unos}`)
+// }
+// function prob2(){
+
+//  unos = prompt("unesi svoje ime")
+//  console.log(`${unos} je uneo svoje ime` )
+//  prob()
+// }
+// prob2()
+
+function al(){
+  alert (`hello ${unos}`)
+}
+
+function end(){
+  unos = prompt("unesite svoje ime i prezime:");
+  console.log("novi pristup sajtu")
+  console.log(`korisnik: ${unos}`)
+  al()
+}
+end()
